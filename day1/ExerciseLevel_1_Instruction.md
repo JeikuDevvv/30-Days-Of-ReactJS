@@ -1,6 +1,6 @@
-### 💻 Exercise
+# 💻 Exercise
 
-##### Exercise: Level 1
+## Exercise: Level 1
 
 ```js
 const countries = [
